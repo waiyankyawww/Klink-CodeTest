@@ -5,4 +5,4 @@ JWT is used for the authentication
 
 ## Build and run in Docker Container
 
-| docker-compose up --build
+``` docker-compose up --build ```
