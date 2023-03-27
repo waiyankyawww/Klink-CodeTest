@@ -3,4 +3,6 @@
 Mini POS system where the user can do minimal CRUDs.
 JWT is used for the authentication
 
-## Build from Source 
+## Build and run in Docker Container
+
+|docker-compose up --build
