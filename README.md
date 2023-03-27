@@ -7,3 +7,5 @@ JWT is used for the authentication
 
 ```shell 
  docker-compose up --build 
+ 
+ 
